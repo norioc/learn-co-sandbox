@@ -1,0 +1,5 @@
+puts "there are #{num_of_attendees} people coming to Beyonce's birthday party."
+
+num_of_attendees = "1000"
+
+
